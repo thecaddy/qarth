@@ -1,0 +1,10 @@
+{
+  "author": "Joel Trost",
+  "name": "qarth",
+  "version": "0.0.1",
+  "dependencies": {
+    "koa": "^0.8.0"
+  },
+  "devDependencies": {},
+  "license": "MIT"
+}
