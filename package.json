@@ -2,9 +2,14 @@
   "author": "Joel Trost",
   "name": "qarth",
   "version": "0.0.1",
+  "engines": {
+    "node": ">=0.11.13",
+    "npm": ">=1.3"
+  },
   "dependencies": {
     "koa": "^0.8.0"
   },
   "devDependencies": {},
+
   "license": "MIT"
 }
